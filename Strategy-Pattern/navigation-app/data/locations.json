@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Makati Medical Center",
+        "latitude": 14.55919,
+        "longitude": 121.01481
+    },
+    {
+        "name": "SM Megamall",
+        "latitude": 14.58708,
+        "longitude": 121.05112
+    },
+    {
+        "name": "Quezon Memorial Circle",
+        "latitude": 14.65274,
+        "longitude": 121.05155
+    },
+    {
+        "name": "Alabang Town Center",
+        "latitude": 14.42830,
+        "longitude": 121.06269
+    },
+    {
+        "name": "Bonifacio Global City",
+        "latitude": 14.54131,
+        "longitude": 121.04945
+    }
+]
